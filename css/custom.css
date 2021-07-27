@@ -1,0 +1,123 @@
+.body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #191919
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.clearfix {
+    clear: both;
+}
+'Montserrat'
+/*Navigatin menu*/
+
+.nav-menu__custom {
+    color: white;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: right;
+    font-family: 'Montserrat';
+}
+
+/*Navigatin menu finished*/
+
+/*Main page section*/
+
+
+.main-page {
+    background-image: url(../images/Header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-origin: content-box;
+    height: 700px;
+    width: 100%;
+}
+
+.main-page__text-custom {
+    padding-top: 20%;
+    color: white;
+    font-weight: 900;
+    font-family: 'Prosto One';
+}
+/*Main page section finished*/
+
+/*Productys section*/
+
+
+.products-page__text-costum {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: left;
+    vertical-align: top;
+    
+        
+}
+    /*Productys section finished*/
+
+    /*Productys' exhibition section*/
+
+.mobiles {
+    display: inline-block;
+    width: 255px;
+    height: 350px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 16px;
+}
+
+.mobile__photos {
+    vertical-align: center;
+    display: inline-block;
+    padding-left: 75px;   
+}
+
+    /*Productys' exhibition section finished*/ 
+
+    /*Footer section*/
+.footer {
+    height: 230px;
+    width: 100%;
+    margin-top: 60px;
+    background-color: #282828;
+}
+
+.footer__section {
+    padding: 80px 0;
+    display: flex;
+}
+
+
+.footer-main__brand {
+    padding-top: 5px;
+
+}
+.footer-titles {
+    display: inline-block;
+    vertical-align: middle;   
+    color: white;
+    padding: 0px 0px 0px 160px;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: right;
+    text-align: center;
+    padding-left: 250px;
+}
+
+
+.footer-images {
+    padding: 0px 50px;
+    margin-left: 160px;
+
+}
+    /*Footer section finished*/
